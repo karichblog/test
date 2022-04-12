@@ -402,7 +402,7 @@ text-align: center;
 
 
     .glow {
-        font-size: 60px;
+        font-size: 25px;
         color: #fff;
         text-align: center;
         animation: glow 1s ease-in-out infinite alternate;
