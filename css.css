@@ -1,0 +1,279 @@
+nav{
+    font-family: 標楷體;
+    font-size: 20pt;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background: rgba(0,0,0,0.4);
+    padding: 0 100px ;
+    box-sizing: border-box;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12),
+    0 2px 2px rgba(0,0,0,0.12),
+    0 4px 4px rgba(0,0,0,0.12),
+    0 8px 8px rgba(0,0,0,0.12),
+    0 16px 16px rgba(0,0,0,0.12);
+}
+nav .brand{
+    float: left;
+    height: 100%;
+    line-height: 80px;
+}
+nav .brand h2{
+    margin: 0;
+    padding: 0;
+    color:#f2f20d;
+}
+nav ul{
+    float: right;
+    display: flex;
+    margin:0;
+    padding: 0;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    position: relative;
+    display: block;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s
+}
+
+
+
+#azx {
+    padding: 1px;
+    margin: 150px;
+    border:rgb(255, 255, 255) 5px double;
+    background-color: bisque;
+    box-shadow: 10px 10px 5px #0b0b0b;
+}
+body {
+    background-image: linear-gradient(to left ,rgb(94, 32, 208),rgb(157, 90, 45));
+}
+
+div.rote{
+    width: 400px;
+    height:auto;
+    position:absolute;
+    top: 100px;
+    right: auto;
+    left: 60%;
+}
+
+div .resum{
+    font-size: 50pt;
+    font-family:標楷體 ;
+
+}
+div p.info {
+    font-size: 20pt;
+    font-family:標楷體 ;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 2px;
+    border-radius: 50%;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+ 
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+ 
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+ 
+
+
+
+#azc {
+    padding: 10px;
+    margin: 10px 500px 20px 500px;
+    border:rgb(255, 255, 255) 10px double;
+    box-shadow: 10px 10px 5px #0b0b0b;
+    background-image: linear-gradient(rgb(212, 209, 13),rgb(21, 255, 0),rgb(0, 204, 255));
+}
+div.rote2{
+    width: 400px;
+    height:80px;
+    position:relative;
+    top: 0px;
+    right: 0;
+    left: 5%;
+}
+div .about{
+    font-size: 63pt;
+    font-family:標楷體;
+    text-align:center;
+}
+div p.info2{
+    font-size: 20pt;
+    font-family:標楷體 ;
+}
+h2 {
+    color: #ddd;
+    font-family:標楷體 ;
+    font-size: 20pt;
+}
+.plan{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 1100px;
+    font-size:30pt ;
+    margin: 30px 100px ;
+}
+.plan1{
+    color: #f0c817;
+}
+
+
+
+
+#azv {
+    padding: 10px;
+    margin: 20px 500px 0px 500px;
+    border:rgb(255, 255, 255) 10px double;
+    box-shadow: 10px 10px 5px #0b0b0b;
+    background-image: linear-gradient(rgb(212, 209, 13),rgb(21, 255, 0),rgb(0, 204, 255));
+    }
+    div.rote3{
+        width: 400px;
+        height:80px;
+        position:relative;
+        top: 0px;
+        right: 0;
+        left: 5%;
+    }
+    div .experience{
+        font-size: 63pt;
+        font-family:標楷體 ;
+        text-align: center;
+    }
+    div p.info3{
+        font-size: 30pt;
+        font-family:標楷體 ;
+        color: white;
+    }
+
+    * {box-sizing: border-box}
+
+.container {
+  margin: 10px ;
+  width: 50%;
+  background-color: #ddd;
+  color: #ddd;
+}
+
+.skill{
+    color: #f4f7f8;
+    background-image: linear-gradient(to left ,rgb(217, 183, 9),rgb(151, 45, 157));
+    width: 100px;
+    font-size: 15pt;
+    text-align: center;
+
+}
+
+.skills {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.skill-2{
+position:absolute;
+top: 2375px;
+right: 0;
+left: 60%;
+font-size: 25pt;
+font-family:標楷體 ;
+color: #f8f4f4;
+background-image: linear-gradient(to left ,rgb(217, 183, 9),rgb(151, 45, 157));
+width: 500px;
+text-align: center;
+}
+
+.html {width: 90%; background-color: #28f7ab;color: black;}
+.css {width: 80%; background-color: #21c2f3;color: black;}
+.js {width: 65%; background-color: #f44336;color: black;}
+.php {width: 60%; background-color: #554b4b;color: black;}
+.other {width: 100%; background-color: #801cdd;color: black;}
+
+
+
+
+
+
+
+
+ #azb {
+    padding: 10px;
+    margin: 10px 500px 0px 500px;
+    border:rgb(255, 255, 255) 10px double;
+    box-shadow: 10px 10px 5px #0b0b0b;
+    background-image: linear-gradient(rgb(212, 209, 13),rgb(21, 255, 0),rgb(0, 204, 255));
+        }
+        div.rote4{
+            width: 400px;
+            height:80px;
+            position:relative;
+            top: 0px;
+            right: 0;
+            left: 15%;
+        }
+        div .more{
+            font-size: 63pt;
+            font-family:標楷體 ;
+            text-align: left;
+        
+        
+        }
+        div p.info4{
+            font-size: 20pt;
+            font-family:標楷體 ;
+        }
+
+#piechart{
+    margin: 20px 0px 20px 0px ;
+    box-shadow: 10px 10px 5px #1e1c1c;
+    
+}
+
+
+    .glow {
+        font-size: 60px;
+        color: #fff;
+        text-align: center;
+        animation: glow 1s ease-in-out infinite alternate;
+      }
+      
+      @-webkit-keyframes glow {
+        from {
+          text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+        }
+        
+        to {
+          text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+        }
+      }
+
